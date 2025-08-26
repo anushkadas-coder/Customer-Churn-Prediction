@@ -215,3 +215,10 @@ print("Saved 'feature_importance.png'")
 
 print("\n--- SCRIPT FINISHED ---")
 print("Check the folder for saved plots: 'eda_*.png', 'evaluation_*.png', and 'feature_importance.png'")
+import pickle
+
+# Save the trained model pipeline to a file
+with open('churn_model.pkl', 'wb') as f:
+    pickle.dump(model, f)
+
+print("\n✅ Model saved successfully as churn_model.pkl")
