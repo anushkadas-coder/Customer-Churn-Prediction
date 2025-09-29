@@ -1,7 +1,7 @@
 # Customer Churn Prediction for a Telecom Company 📊
 
 ## 🚀 Live Demo
-**You can try the interactive web app here:** [**Streamlit App Link**](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)
+**We can try the interactive web app here:** [**Streamlit App Link**](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)
 
 
 ## 1. Business Problem
